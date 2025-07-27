@@ -4,7 +4,7 @@ Neurobit is a full-stack healthcare appointment booking platform where users can
 
 ## 👨‍💻 Developed By
 
-**Aditya Dey **  
+**Aditya Dey**  
 - 🎓 B.Tech ECE, IIT (ISM) Dhanbad (Batch of 2027)  
 
 ## 🚀 Features
